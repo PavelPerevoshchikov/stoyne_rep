@@ -87,6 +87,7 @@ namespace visualizacia
         }
         private void button2_Click(object sender, EventArgs e)
         {
+            //sdfmdskfmdslfmdskmfsdkfs
             graphForDraw = ReadInput();
             button2.Visible = false;
             int Xmax, Ymax;
